@@ -23,7 +23,7 @@ The model achieves state-of-the-art performance:
 ---
 
 ## Model Architecture
-![Model Architecture](docs/model_architecture.png)
+![Model Architecture](docs/prlsr_model.jpg)
 
 ### Key Components:
 1. **Progressive Residual Blocks (PRBs)**: Gradually downsample and upsample features to reduce redundancy while maintaining image quality.
